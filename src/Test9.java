@@ -6,5 +6,7 @@ public class Test9 {
     ([7, 2, 3, 10, 5, 9, 1, 4, 8]) ➞ 6
     ([7, 5, 1, 2, 4, 6, 8, 3, 9]) ➞ 10
      */
-
+    public static void main(String[] args) {
+        System.out.println("yeni");
+    }
 }
