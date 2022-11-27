@@ -11,17 +11,13 @@ public class Test4 {
         System.out.print("Bir metin giriniz : ");
         String str = scan.nextLine();
 
-        sadeceRakam(str);
-
-        System.out.println(str = str.replaceAll("\\D", ""));
-
+        rakamBul(str);
 
     }
 
-    private static void sadeceRakam(String str) {
+    private static void rakamBul(String str) {
 
         System.out.println(str = str.replaceAll("\\D", ""));
-
 
     }
 }
