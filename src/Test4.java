@@ -13,6 +13,8 @@ public class Test4 {
 
         sadeceRakam(str);
 
+        System.out.println(str = str.replaceAll("\\D", ""));
+
 
     }
 
